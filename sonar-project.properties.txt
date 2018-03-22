@@ -1,9 +1,0 @@
-sonar.projectkey=sam
-sonar.projectname=sample
-sonar.login=admin
-sonar.password=admin
-sonar.sources=src
-sonar.host.url=http://10.53.67.14:9000
-sonar.language=java
-sonar.projectBaseDir=E:\sreevani\ResourceManagement
-sonar.projectversion=1.0
